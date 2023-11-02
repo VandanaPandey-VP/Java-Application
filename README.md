@@ -1,5 +1,5 @@
 # 🎇🎇Java-Application🎇🎇
-✔✔A very simple application that help to learn java batter.✔✔
+✔✔A very simple application that help to learn java better.✔✔
 
 
 **Project description**
